@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <ul>
-<li>👋 Hi, I'm @Devilatheaven</li>
+<li>👋 Hi, I'm @seabeePraveen</li>
 <li>👀 I'm intrested in Web Dev and solving real applications.</li>
 <li>🌱 Currently improving my Development skills in Django</li>
 <li>🏫 Pursuing BTech Computer Science and Engineering at NIT, Surat.</li>
