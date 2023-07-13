@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <ul>
 <li>👋 Hi, I'm @seabeePraveen</li>
 <li>👀 I'm intrested in Development and solving real applications.</li>
-<li>🌱 Currently improving my Development skills in Django</li>
 <li>🏫 Pursuing BTech Computer Science and Engineering at NIT, Surat.</li>
 <li>📧 How to reach me: <a href="mailto:cbsrirangapraveen.2004@gmail.com">cbsrirangapraveen.2004@gmail.com</a></li>
 <li>🧑‍💼 My Linked In profile : <a href="https://www.linkedin.com/in/praveen-cb-50736b250">Praveen Cb</a></li>
