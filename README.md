@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm CB Praveen</h1>
-<h3 align="center">I am Full-stack Web Developer</h3>
+<h3 align="center">I am Web & App Developer</h3>
 
 <!--
 **Devilatheaven/Devilatheaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
