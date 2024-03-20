@@ -59,6 +59,6 @@ Here are some ideas to get you started:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=seabeepraveen&hide=stars&show_icons=True" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seabeepraveen" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seabeepraveen" alt="seabeePraveen contributions" />
 
 </p>
